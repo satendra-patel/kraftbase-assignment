@@ -77,9 +77,10 @@
 }
 
 .item_h3 {
-    font: 700 18px/1.2 Inter;
-    letter-spacing: -.01em;
-    color: #000
+    display: block;
+  color: black; 
+  font-size: 1.2rem;
+  margin: 0; 
 }
 
 .item_subtitle {
@@ -101,5 +102,5 @@
     flex-shrink: 0
 }
 .item_image:hover {
-    transform: scale(1.2); /* You can adjust the scale factor to your preference */
+    transform: scale(1.2);
   }

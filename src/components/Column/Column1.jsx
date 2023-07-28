@@ -18,7 +18,7 @@ const Column1 = () => {
               </video>
             </div>
           </div>
-          <span style={{transform: "translate(-50%,100%)", opacity: "0"}}></span>
+          <span style={{transform: "translate(-50%,100%)", opacity: "1"}}></span>
           <div>
             <div className="item_info">
               <p className="item_item">Web Application</p>

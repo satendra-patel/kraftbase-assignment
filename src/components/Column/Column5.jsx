@@ -8,16 +8,13 @@ const Column5 = () => {
         <a className="col1-a" href="/">
           <div className="item_image">
             <div className="item_video" style={{transform: "translate3d(0px, 21.3647px, 0px)"}}>
-             
               <img
-              src="https://api.awsmd.com/uploads/img_05_570b79db90.png"
-              alt="Item Image"
-              
-            />
-              
+                src="https://api.awsmd.com/uploads/img_05_570b79db90.png"
+                alt="Item Image"
+              />
             </div>
           </div>
-          <span style={{transform: "translate(-50%,100%)", opacity: "0"}}></span>
+          <span style={{transform: "translate(-50%,100%)", opacity: "1"}}>Sample Text</span>
           <div>
             <div className="item_info">
               <p className="item_item">Web Application</p>
