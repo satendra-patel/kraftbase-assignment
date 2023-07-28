@@ -1,5 +1,7 @@
 import DetailSection from './components/DetailSection';
 
+
+
 function App() {
   return (
     <div>
